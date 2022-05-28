@@ -4,7 +4,6 @@
 - [The Functional API](https://www.tensorflow.org/guide/keras/functional) (TensorFlow Documentation)
 
 # Week 2:
--
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) (He, Zhang, Ren & Sun, 2015)
 - [deep-learning-models/resnet50.py/](https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py) (GitHub: fchollet)
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) (Howard, Zhu, Chen, Kalenichenko, Wang, Weyand, Andreetto, & Adam, 2017)
@@ -12,7 +11,6 @@
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) (Tan & Le, 2019)
 
 # Week 3:
--
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) (Redmon, Divvala, Girshick & Farhadi, 2015)
 - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (Redmon & Farhadi, 2016)
 - [YAD2K](https://github.com/allanzelener/YAD2K) (GitHub: allanzelener)
@@ -22,7 +20,6 @@
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) (Ronneberger, Fischer & Brox, 2015)
 
 # Week 4:
--
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) (Schroff, Kalenichenko & Philbin, 2015)
 - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.8562-6/240890413_887772915161178_4705912772854439762_n.pdf?_nc_cat=109&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=H0jS2MgM1IMAX9Uz1Ug&_nc_ht=scontent-tpe1-1.xx&oh=00_AT9NnuErJ-OIc3TjudBtoVrVAXYP6c_wUUoVrhiJ9SP1pw&oe=6266F43F) (Taigman, Yang, Ranzato & Wolf)
 - [facenet](https://github.com/davidsandberg/facenet) (GitHub: davidsandberg)
